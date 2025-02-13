@@ -17,3 +17,6 @@ export function useIsMobile() {
 
   return !!isMobile
 }
+
+
+// Updated: 2025-04-25T12:18:08.655Z
